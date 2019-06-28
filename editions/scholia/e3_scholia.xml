@@ -18,19 +18,153 @@
       <group n="17">
         <text n="e3">
             <body>
-                <div n="e3_PAGE_SCHOLNUMBER" type="scholion">
+                <div n="e3_225v_1" type="scholion">
                     <div n="lemma">
-                        <p><num>GREEK NUMBER</num></p>
+                        <p><num>α</num></p>
                     </div>
                     <div n="ref">
-                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.ILIAD_LINE</p>
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.56</p>
                     </div>
-                    <div n="comment">
-                        <p>Scholiion text</p>
+                    <div n="1">
+                        <p>νεωστὶ θάλλει~ <p>ἄνθει+</p> δὲ <p>λευκῷ</p>, τῷ κυπρισμῷ τῆς ἐλαίας~ οὐ γὰρ τελεσφορεῖ τὸν καρπὸν διὰ τὸν ἐον~ ἀπὸ δὲ τοῦ <q>βρύω</q> τοῦ ἄρ τι <q>θάλλω</q>. γίνεται καὶ ἔμβρυον⁑</p>
+                 </div>
+                <div n="e3_225v_2" type="scholion">
+                    <div n="lemma">
+                        <p><num><gap></gap></num></p>
                     </div>
+                    <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.58</p>
+                    </div>
+                    <div n="2">
+                        <p>μετέωροι γὰρ αἱ τῆς ἐλαίας ῥίζαι~ διὸ καὶ γυρόσε ἐπικάπτουσιν αὐτὰ/ς~ ἐμφαντικῶς δὲ καὶ τὴν <w>εξ</w> πρόθεσιν παρείληφε~ δεικνὺς τὴν ἐλαίαν σὺν ταῖς ῥίζαις ἀναβεβλημένην~ λείοις δὲ χρησάμενος τοῖς ἔπεσι, νῦν συνεπάχυνε τῷ πάθει τὴν ἀπαγγελίαν~ ὅρα δὲ πῶς σ΄επὶ μὲν τῆς τροφῆς αὐτῆς πνοὰς ἀνέμων φησιν~ ἐπὶ δὲ τῆς πτώσεως ἄνεμον καὶ λαίλαπα⁑</p>
+                 </div>
+                 <div n="e3_225v_3" type="scholion">
+                     <div n="lemma">
+                         <p><num><gap></gap></num></p>
+                     </div>
+                     <div n="ref">
+                         <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.62</p>
+                     </div>
+                     <div n="3">
+                         <p>πάντα παρέλαβε~ πάσῃ μὲν τῇ ἀγέλῃ τὸ πλῆθος τῶν Τρώων εἰκάζων~ τὸν δὲ Εὔφορβον ὄντα ἄριστον. τῇ ἀρίστῃ αὐτῶν ὅτι δὲ ἄριστος~ μαρτυρεῖ ὁ ποιητής~ Πατρόκλῳ περιβὰς. Τρώων τὸν ἄριστον ἔπεφνε~ τὸν κτείναντα Μενέλαον. λέοντι~ τὴν ἀπραξίαν τῶν Τρωΐκῶν ἀριστέων. βουκόλοις καὶ κυσὶν ἐπαμῖναι μὴ δυναμένοις⁑</p>
+                  </div>
+
+                  <div n="e3_225v_4" type="scholion">
+                      <div n="lemma">
+                          <p><num>δ</num></p>
+                      </div>
+                      <div n="ref">
+                          <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.65</p>
+                      </div>
+                      <div n="3">
+                          <p>σὺν τῷ <waw>ι</waw> καὶ περισπᾶται~ ἔτι γὰρ τὸ θέμα <w>δηι+όω</w>⁑</p>
+                   </div>
+
+                   <div n="e3_225v_5" type="scholion">
+                       <div n="lemma">
+                           <p><num>ε</num></p>
+                       </div>
+                       <div n="ref">
+                           <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.65</p>
+                       </div>
+                       <div n="4">
+                           <p>πολυφρόντιδες καὶ πολλοῦ λόγου δεόμενοι εἰς τὸ <choice><abbr>ἀνῳ</abbr><expan>ἀνθρώπῳ</expan></choice> ὑποταγῆναι~ ἢ δυσχερεῖς⁑</p>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div><div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div>
+                    <div type="scholion" n="PAGE_NUMBER">
+                      <div n="lemma">
+                        <p>Lemma or "footnote number"</p>
+                      </div>
+                      <div n="ref">
+                        <p>urn:cts:greekLit:tlg0012.tlg001.VERSION:PASSAGE</p>
+                      </div>
+                      <div n="comment">
+                        <p>TEXT OF SCHOLION</p>
+                      </div>
+                    </div>
+                    
+                </div>
+                </div>
+                </div>
+                </div>
                 </div>
             </body>
-        </text>
+          </text>
         </group>
     </text>
 </TEI>
