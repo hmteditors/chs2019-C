@@ -95,15 +95,70 @@
                             <p>ἀναγκαίως~ ἵν΄ ἐν τοσούτῳ ὁ <persName n="urn:cite2:hmt:pers.v1:pers119">Μενέλαος</persName> ἔχη <gap></gap> καιρὸν διαλογίσασθαι ~ ὁ μὲ｀ν γὰρ συγκαλεῖ τοὺς ἀρίστους. ὁ δὲ｀ <w>σκ<choice><sic>ε</sic><corr>έ</corr></choice>πτεται</w> περὶ αὐτοῦ ⁑ </p>
                         </div>
                     </div>
-                    <div n="msB_232v_5" type="scholion">
+                    <div n="msB_233r_3" type="scholion">
                         <div n="lemma">
-                            <p><num value="5">ε</num></p>
+                            <p><num value="8">η</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.76</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.91</p>
                         </div>
                         <div n="comment">
-                            <p>πολυφρόντιδες καὶ πολλοῦ λόγου δεόμενοι ἐις τὸ <choice><abbr>ἀνῳ</abbr><expan>ἀνθρώπῳ</expan></choice> ὑποταγῆναι. ἢ δυσχερεῖσ ⁑ </p>
+                            <p>εἰκότως ἐμβαθύνει τῷ λογισμῷ~ μένειν μὲν γὰρ, ἡ ἐκ <persName n="urn:cite2:hmt:pers.v1:pers158">Πατρόκλου</persName> τιμὴ καὶ ὁ ψόγος <rs type="ethnic" n="urn:cite2:hmt:place.v1:place3">Ἑλλήνων</rs> προτρέπει ~ φεύγειν δὲ, τὸ πλῆθος τῶν <rs type="ethnic" n="urn:cite2:hmt:place.v1:place6">Τρώων</rs> καὶ ὁ <persName n="urn:cite2:hmt:pers.v1:pers8">Ζεύς</persName>~ δαιμονίως δὲ ἑαυτὸν δυσωπεῖ, παραμεῖναι τῷ δι' αὐτὸν τελευτήσαντι ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="msB_233r_4" type="scholion">
+                        <div n="lemma">
+                            <p><num value="8">θ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.91</p>
+                        </div>
+                        <div n="comment">
+                            <p>τὸ ἑξῆς <q>καταλὶπω</q>, διὸ ἀναστρεπτέον τὴν πρόθεσιν ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="msB_233r_5" type="scholion">
+                        <div n="lemma">
+                            <p><num value="8">ι</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.91</p>
+                        </div>
+                        <div n="comment">
+                            <p>δι+στακτόν ἐστι τὸ <q>μῆ</q> ~ προκατασκευάζει δὲ, ὅπως πιθανὴ ἡ ἀναχώρησις γένηται⁑</p>
+                        </div>
+                    </div>
+                    <div n="msB_233r_6" type="scholion">
+                        <div n="lemma">
+                            <p><num value="8">ια</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.98</p>
+                        </div>
+                        <div n="comment">
+                            <p>ὅταν ἀνὴρ <w>ἐθέλη<gap></gap></w> παρὰ γνώμην θεοῦ μάχεσθαι ἀνδρὶ ὅν κε θεὸς τιμᾷ ~ δηλοῖ γὰρ καὶ τὴν <q>παρὰ</q> ἡ <q>πρόσ</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="msB_233r_7" type="scholion">
+                        <div n="lemma">
+                            <p><num value="8">ιβ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.101</p>
+                        </div>
+                        <div n="comment">
+                            <p>θεόθεν~ περισσὴ δὲ ἡ <q>ἐξ</q>⁑</p>
+                        </div>
+                    </div>
+                    <div n="msB_233r_8" type="scholion">
+                        <div n="lemma">
+                            <p><num value="8">ιγ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.102</p>
+                        </div>
+                        <div n="comment">
+                            <p>τινὲς τὴν φωνήν~ σπανίως γὰρ αὐτὸν βοὴν ἀγαθὸν φησι⁑</p>
                         </div>
                     </div>
                 </body>
