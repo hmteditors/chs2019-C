@@ -18,15 +18,59 @@
         <group n="17">
             <text n="msB">
                 <body>
-                    <div n="msB_230r_4" type="scholion">
+                    <div n="msB_232v_1" type="scholion">
                         <div n="lemma">
-                            <p><num value="12">ιβ</num></p>
+                            <p><num value="1">a</num></p>
                         </div>
                         <div n="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.1@ἀτρέος</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.56</p>
                         </div>
                         <div n="comment">
-                            <p>Scholiion text</p>
+                            <p>νεωστὶ θαλλει ~ ἀνθει+ δὲ λευκῷ, τῷ κυπρισμῷ τῆς ἐλαίας ~ οὐ γὰρ τελεσφορεῖ τὸν καρπὸν διὰ τὸ νὲον ~ ἀπὸ δὲ τοῦ βρύω τοῦ ἄρτι θάλλω, γίνεται καὶ ἔμβρυον ⁑</p>
+                        </div>
+                    </div>
+                    <div n="msB_232v_2" type="scholion">
+                        <div n="lemma">
+                            <p><num value="2">β</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.58</p>
+                        </div>
+                        <div n="comment">
+                            <p>μετέωροι γὰρ ἁι τῆς ελαίας ῥίζαι ~ διὸ καὶ γυρόσε ἐπισκάπτουσιν αὐτὰς ~ ἐμφαντικῶς δὲ καὶ τὴν ἐξω πρόθεσιν παρείλεφε, δεικνὺς τὴν ἐλαύαν σὺν ταῖς ῥιζαις ἀναβεβλημένην ~ λείοις δὲ χρησάμενος τοῖς επεσι, νῦν συνεπόχυνε τῷ πάθει τὴν απαγγελίαν ~ ὅρα δὲ πῶς ἐπὶ μὲν τῆς τροφῆς ἀυτῆς πνοὰς ἀνέμον φησὶν ~ ἐπὶ δὲ τῆς πτώσεως, ἄνεμον καὶ λαὶλαπα ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="msB_232v_3" type="scholion">
+                        <div n="lemma">
+                            <p><num value="3">γ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.62</p>
+                        </div>
+                        <div n="comment">
+                            <p>πάντα παρέλαβε ~ πάση μὲν τῇ ἀγέλῃ τὸ πλῆθος τῶν τρώων εἰκάζων ~ τὸν δὲ Εὔφορβον ὄντα ἄριστον, τῇ ἀρίστῃ ἀυτῶν ~ ὅτι δε‘ ἄριστος ~ μαρτυρεῖ ὁ ποιητής ~ Πατρόκλῳ περιβας. τρώων τὸν ἄριστον ἔπεφνε~ τὸν κτείμαντα Μενέλαον, λέοντι ~ τὴν ἀπραξίαν τῶν τροι+κῶν ἀριστέων, βουκόλοις καὶ κυσίν ἐπαμῦναι μὲ δυναμένοις. <gap></gap> </p>
+                        </div>
+                    </div>
+                    <div n="msB_232v_4" type="scholion">
+                        <div n="lemma">
+                            <p><num value="4">δ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.65</p>
+                        </div>
+                        <div n="comment">
+                            <p>σὺν τῷ <q>ι+</q> καὶ περισπᾶται ~ ἔστι γὰρ τὸ θέμα δηι+όω ⁑ </p>
+                        </div>
+                    </div>
+                    <div n="msB_232v_5" type="scholion">
+                        <div n="lemma">
+                            <p><num value="5">ε</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:17.76</p>
+                        </div>
+                        <div n="comment">
+                            <p>πολυφρόντιδες καὶ πολλοῦ λόγου δεόμενοι ἐις τὸ <choice><abbr>ἀνῳ</abbr><expan>ἀνθρώπῳ</expan></choice> ὑποταγῆναι. ἢ δυσχερεῖσ ⁑ </p>
                         </div>
                     </div>
                 </body>
