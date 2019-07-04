@@ -31,9 +31,14 @@ These lines visible in Venetus B.
 
 ---
 
+How standard is the number of lines per page?  We counted some!
+
+
+---
+
 **Euphorbos & The Cow**
 
-*[γ´ Scholion?](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_225v_226r@0.01939,0.5131,0.1727,0.2541) (marker missing)*
+*[γ´ Scholion?](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_225v_226r@0.01939,0.5131,0.1727,0.2541&urn=urn:cite2:hmt:e3bifolio.v1:E3_225v_226r@0.1657,0.3026,0.3091,0.04656) (marker missing)*
 
 <img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:e3bifolio.v1:E3_225v_226r@0.02367,0.5316,0.1654,0.2326"/>
 
@@ -45,8 +50,26 @@ These lines visible in Venetus B.
 
 ---
 
+No comment on this line in Venetus A.  **but**...  marked as simile number 139
+
+[![](http://www.homermultitext.org/iipsrv?OBJ=IIP,1.0&FIF=/project/homer/pyramidal/deepzoom/hmt/vaimg/2017a/VA224VN_0726.tif&RGN=0.1634,0.4194,0.05103,0.03596&wID=100&CVT=JPEG)](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vaimg.2017a:VA224VN_0726@0.1634,0.4194,0.05103,0.03596)
+
+---
+
 **Euphorbos as a Cow**
 
 "Εὔφορβος" means well-fed -> Naturally, well-fed Euphorbos is the best cow of the "Trojan Herd" noted by the scribe.
 
 <img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:vbbifolio.v1:vb_232v_233r@0.3673,0.2849,0.06330,0.02916"/>
+
+
+---
+
+
+What do these two points suggest about:
+
+- relation of MSS?
+- sources used?
+- selection of material?
+
+---
