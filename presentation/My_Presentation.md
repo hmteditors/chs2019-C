@@ -31,10 +31,6 @@ These lines visible in Venetus B.
 
 ---
 
-How standard is the number of lines per page?  We counted some!
-
----
-
 **Euphorbos & The Cow**
 
 *[γ´ Scholion?](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_225v_226r@0.01939,0.5131,0.1727,0.2541&urn=urn:cite2:hmt:e3bifolio.v1:E3_225v_226r@0.1657,0.3026,0.3091,0.04656) (marker missing)*
@@ -64,9 +60,13 @@ No comment on this line in Venetus A.  **but**...  marked as simile number 139
 
 ---
 
-What do these two points suggest:
+**How similar are the manuscript pages?**
 
 - Evidence from ten pages: Ven. A and Upsilon 1.1 have the same # of lines per page. Most pages have 24 or 25 lines.
+
+---
+
+What do these two points suggest:
 
 - Both scribes are likely copying from the same manuscript, but had different interests.
   - The Venetus A scribe may have had access to a book of notes on Iliad similes. (Simile 139)
