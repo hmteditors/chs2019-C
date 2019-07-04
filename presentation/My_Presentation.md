@@ -1,9 +1,6 @@
 # Missing Lines & Euphorbos
-## Group C
 
-- Andrew Bertin
-- Rebecca Fulford
-- Wieke Snoeij
+Andrew Bertin, Rebecca Fulford, Wieke Snoeij
 
 Homer Multitext Seminar | Summer 2019 | Washington, D.C.
 
@@ -29,6 +26,13 @@ Similarity between several lines. This is an easy mistake to make.
 
 These lines visible in Venetus B.
 
+___
+
+**How similar are the manuscript pages?**
+
+- Evidence from ten pages: Ven. B and Upsilon 1.1 have the same # of lines per page. Most pages have 24 or 25 lines.
+
+
 ---
 
 **Euphorbos & The Cow**
@@ -37,11 +41,26 @@ These lines visible in Venetus B.
 
 <img src="http://beta.hpcc.uh.edu/scs/image/500/500/urn:cite2:hmt:e3bifolio.v1:E3_225v_226r@0.02367,0.5316,0.1654,0.2326"/>
 
+
 ---
+
 
 **Euphorbos & The Cow** (trans. Wieke Snoeij + help from Dr. T.A. van Berkel)
 
-*"He compares everything; the mass of the Trojans is compared to the whole herd; and Euphorbos being the best one is compared to the best [cow] of them. That he is the best one, the poet testifies: “after he had stood over Patroklos, he wounded the best of the Trojans:” (Hom. Il. 17.80) The killer Menelaos is compared to the lion, the inaction of the chief of the Trojans compares to herdsmen and dogs not being able to defend [the herd]."*
+πάντα παρέλαβε~ πάσῃ μὲν τῇ ἀγέλῃ τὸ πλῆθος τῶν Τρώων εἰκάζων~ τὸν δὲ Εὔφορβον ὄντα ἄριστον. τῇ ἀρίστῃ αὐτῶν
+
+
+He compares everything; the mass of the Trojans is compared to the whole herd; and Euphorbos being the best one is compared to the best [cow] of them.
+
+---
+
+ ὅτι δὲ ἄριστος~ μαρτυρεῖ ὁ ποιητής~
+"Πατρόκλῳ περιβὰς Τρώων τὸν ἄριστον ἔπεφνεν"~
+τὸν κτείναντα Μενέλαον. λέοντι~ τὴν ἀπραξίαν τῶν Τρωϊκῶν ἀριστέων. βουκόλοις καὶ κυσὶν ἐπαμῦναι μὴ δυναμένοις⁑
+
+
+
+That he is the best one, the poet testifies: “after he had stood over Patroklos, he wounded the best of the Trojans:” (Hom. *Il*. 17.80) The killer Menelaos is compared to the lion, the inaction of the chief of the Trojans compares to herdsmen and dogs not being able to defend [the herd].
 
 ---
 
@@ -60,18 +79,18 @@ No comment on this line in Venetus A.  **but**...  marked as simile number 139
 
 ---
 
-**How similar are the manuscript pages?**
-
-- Evidence from ten pages: Ven. A and Upsilon 1.1 have the same # of lines per page. Most pages have 24 or 25 lines.
-
----
 
 What do these two points suggest:
 
-- Both scribes are likely copying from the same manuscript, but had different interests.
-  - The Venetus A scribe may have had access to a book of notes on Iliad similes. (Simile 139)
-
+- The Twins  scribes are likely copying from the same manuscript
+-  The Twins scribes and Venetus A scribe had different interests.
+- The Venetus A scribe may have had access to a book of notes on Iliad similes. (Simile 139)
 - Another possibility: The Venetus A scribe didn't think the simile needed any explanation.
+
+---
+
+Where would you go from here?
+
 
 ---
 
