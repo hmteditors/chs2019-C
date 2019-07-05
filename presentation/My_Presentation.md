@@ -30,7 +30,7 @@ ___
 
 **How similar are the manuscript pages?**
 
-- Evidence from ten pages: Ven. B and Upsilon 1.1 have the same # of lines per page. Most pages have 24 or 25 lines.
+- Evidence from ten pages: Ven. B and Upsilon 1.1 have the same # of lines per page. Most pages have 23-25 lines.
 
 
 ---
@@ -79,7 +79,6 @@ No comment on this line in Venetus A.  **but**...  marked as simile number 139
 
 ---
 
-
 What do these two points suggest:
 
 - The Twins  scribes are likely copying from the same manuscript
@@ -90,7 +89,6 @@ What do these two points suggest:
 ---
 
 Where would you go from here?
-
 
 ---
 
